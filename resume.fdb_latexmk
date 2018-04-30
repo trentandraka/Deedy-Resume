@@ -1,6 +1,6 @@
 # Fdb version 3
-["pdflatex"] 1521980692 "/home/trentandraka/Deedy-Resume/resume.tex" "resume.pdf" "resume" 1521980699
-  "/home/trentandraka/Deedy-Resume/resume.tex" 1521980699 10587 b40da8372dbab921c64241402b4acbb4 ""
+["pdflatex"] 1525089436 "/home/trentandraka/Deedy-Resume/resume.tex" "resume.pdf" "resume" 1525089436
+  "/home/trentandraka/Deedy-Resume/resume.tex" 1525089436 11005 a5d9f3512afd70d5fc8d89982158cb37 ""
   "/usr/share/texmf-dist/tex/generic/ifxetex/ifxetex.sty" 1520157235 1458 43ab4710dc82f3edeabecd0d099626b2 ""
   "/usr/share/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty" 1520157236 185082 6c11d4e30ed78e2a12957b7e77030856 ""
   "/usr/share/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty" 1520157236 70864 bcd5b216757bd619ae692a151d90085d ""
@@ -25,8 +25,8 @@
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1520157258 32585 d82bbcf7626b7842c87671687479e852 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1520411210 7738160 879b932fdc23c7d765d483f803978e8d ""
   "deedy-resume-openfont.cls" 1504237701 3017 f2cafb2654597ee6880683ecd654f1c6 ""
-  "resume.aux" 1521980692 8 a94a2480d3289e625eea47cd1b285758 ""
-  "resume.tex" 1521980699 10587 b40da8372dbab921c64241402b4acbb4 ""
+  "resume.aux" 1525089436 8 a94a2480d3289e625eea47cd1b285758 ""
+  "resume.tex" 1525089436 11005 a5d9f3512afd70d5fc8d89982158cb37 ""
   "titlesec.sty" 0 -1 0 ""
   (generated)
   "resume.pdf"
